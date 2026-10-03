@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": {
+    "pdf": {
+      "source": "https://skills.sh/openai/skills/pdf",
+      "sourceType": "github",
+      "skillPath": "/Users/wayne/cursorvibecoding/skill/.agents/skills/pdf",
+      "installedAt": "2026-07-02T16:50:08.728Z",
+      "computedHash": "b3BlbmFpL3NraWxs"
+    }
+  }
+}
